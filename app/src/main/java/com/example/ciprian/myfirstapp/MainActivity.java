@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        //look this is the layout file i'm linking
+        //look this is the layout file i'm linkings
         setContentView(R.layout.activity_main);
     }
 }
